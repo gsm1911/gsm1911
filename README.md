@@ -1,3 +1,5 @@
 - Estudante de ADS na Fatec Zona Sul
 
-- Aluno do curso ONE - Oracle Next Education
+- Alumni ONE - Oracle Next Education
+
+- Foco no Backend
